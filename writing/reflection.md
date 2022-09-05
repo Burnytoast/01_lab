@@ -13,27 +13,27 @@ Please write below this line to address the above-mentioned points. Replace the 
 
  1. What is the name of the tool?
 
-TODO
+ZDOCK
 
  2. What is the reference to the tool (i.e., a web site, article reference, or similar)?
 
-TODO
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5425816/
 
  3. Who would use this tool?
 
-TODO
+Biochemists primarily! But other chemists, biologists and other pharmeceutical researchers would definitely find it use full as well.
 
  4. Describe the work that the tool was designed to complete.
 
-TODO
+This software was designed to predict a protein's ability to bind to specific substrates based on the sequence of the protein, the structure, the side chains present and the intermolecular forces that would allow for an interaction between the substrate and the protein! I'm using something related in my comp!
 
  5. If the tool requires data, what kind of data is that?
 
-TODO
+Information regarding the protein's sequence, information about intermolecular forces present and the components of each amino acid/protein/RNA/other molecule present.
 
  6. What undesirable consequences could result from the misuse of this method of tool?
 
-TODO
+One could potentially use the information to design something to destroy or dissolve specific proteins - ie they could theoretically design a toxic designed to be as destructive as possible.
 
 ### Second Tool
 
